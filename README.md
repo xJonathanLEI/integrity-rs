@@ -4,6 +4,8 @@
 
 **Rust library for verifying STARK proofs from [`swiftness`](https://github.com/iosis-tech/swiftness) on [`integrity`](https://github.com/HerodotusDev/integrity)**
 
+[![crates-badge](https://img.shields.io/crates/v/integrity.svg)](https://crates.io/crates/integrity)
+
 ## Introduction
 
 `integrity-rs` is the missing piece for verifying [`swiftness`](https://github.com/iosis-tech/swiftness) STARK proofs on-chain using the [`integrity`](https://github.com/HerodotusDev/integrity) verifier contract.
